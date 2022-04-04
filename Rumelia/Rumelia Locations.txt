@@ -1,0 +1,45 @@
+WOSKOM
+Description: A real grungy city. Not the type of place one likes to settle down in. 
+Geographic Location: Western Rumelia
+
+CENTRAL
+Description: Head of the country. Anyone who's anyone lives in this city protected by the ruthless guardians.
+Residents: Politicians, writers, artists, anyone famous.
+Geographic Location: Center of Rumelia
+
+THE COBBLESTONE
+Description: The most trodden path in Rumelia. One of the longest and only-est cobblestone roads in the country. Spans from Central to all the major cities in Rumelia. 
+
+RUMELIA
+Description: "The last bastion of human civility." Rumelia is a nation walled off from the rest of the world. Nothing besides the 7 are allowed to enter or exit the country, so Rumelia must be as self sufficient as it can be.
+History: Tens of thousands of years ago, Rumelia was still a part of the earth before the catastrophe.
+
+Something happened to make the country of Rumelia rip itself out of the earth and fly into orbit. Once in orbit, Rumelia fired on its home, glassing the planet to rid itself of the scourge that was plaguing it. 
+
+Years after wiping the planet of all life, after confirming that the scourge was completely gone, Rumelia began to seed the planet to restart the lifecycle. 
+
+In the bowels of the country is a massive facility dedicated to keeping the people of Rumelia safe and healthy, and to starting up life on earth again. It has giant stores of the genetic sequences of each and every plant and animal that had lived on the planet prior to the scourge. It can fully 3D print live animals that are genetically different enough from others of their species to be able to create a healthy population.
+
+Rumelia fabricated and released many of these 3D printing facilities onto the planet to restart life. Some of the facilities ended up getting corrupted (by the scourge???) and output grotesque monsters instead of normal animals. Earth now is a mix of normal plants and animals, and strange, monstrous plants and animals.
+
+Rumelia had planned to be able to return to it's spot in the earth, when the earth was ready for it's people. 3 facilities exist on the earth that require someone to complete a trial and grab an artifact to bring back to Rumelia and insert into a slot in Rumelia's facility, so the computer running the country knows that it's time to return.
+
+However, the governing power keeps any knowledge of this out of the general public. They'd execute any who know the secret, and protect the truth at any cost. Why do the do this? Ignorance? Fear of the loss of their power? 
+
+Now, tens of thousands of years in the future, Rumelia stays in orbit around the planet. The world is ready, but Rumelia stays. It's time for it to return. 
+Residents: All Rumelians
+Geographic Location: High orbit around the earth.
+Design And Decor: Mostly typical old timey Europe feel.
+
+REKVAL
+Description: Prison city. Guardians are "made" here
+
+
+THE DECAYING FOREST
+Description: A dead forest, full of gnarled white trees. No one dares venture into it anymore. No one's ever ventured far in and made it back out. 
+History: Setup as a zone to enter into the Rumelia Facility underground. And to keep out unwanted civilians. 
+Residents: Egg
+Geographic Location: Situated West of Central
+Design And Decor: Dead and dying plants. Thick white gnarled wood. 
+
+
